@@ -2,4 +2,4 @@ DeastickPerf.dll is a standalone performance mod that changes a lot of things ab
 
 DeadstickUnlocker.dll is a small menu that allows the demo to be extended beyond the limits that the devs have set. Removes the barrier for the demo zone, as well as allows for more missions to be generated. 
 
-Melongloader required for install and use. Install either or both mods into Mods folder that melonloader creates upon installation
+Melonloader required for install and use. Install either or both mods into Mods folder that melonloader creates upon installation
